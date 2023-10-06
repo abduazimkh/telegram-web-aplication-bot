@@ -56,4 +56,5 @@
 
 .btn.disabled {
 	opacity: 0.5;
+	cursor: no-drop;
 }
